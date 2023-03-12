@@ -2,7 +2,8 @@
 <h1 >Hi 👋, I'm Avin Babu P S</h1>
 <h3 >A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently working at **CRMantra Technologies Pvt Ltd**
+- 🌱 I am a Salesforce Developer
 
 - 📫 How to reach me **avinbabu007@gmail.com**
 
