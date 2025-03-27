@@ -1,11 +1,11 @@
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
-<h1 >Hi 👋, I'm Avin Babu P S</h1>
-<h3 >A passionate frontend developer from India</h3>
+<h1 >I'm Avin Babu P S</h1>
+<h3 >Senior Software Engineer</h3>
 
-- 🌱 I’m currently working at **CRMantra Technologies Pvt Ltd**
-- 🌱 I am a Salesforce Developer
+- I’m currently working at **CRMantra Technologies Pvt Ltd**
+- I am a Full-Stack Salesforce/Omnistudik Developer
 
-- 📫 How to reach me **avinbabu007@gmail.com**
+- How to reach me **avinbabu007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
